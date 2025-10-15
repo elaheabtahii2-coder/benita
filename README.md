@@ -1,4 +1,4 @@
-# benita
+# benit
 6. Next-gen crypto solution.
 
 ├─ README.md
