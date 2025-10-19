@@ -8,7 +8,7 @@
 ├─ css/
 │  └─ styles.css
 ├─ js/
-│  └─ app.js
+│  └─ app.j
 ├─ backend/
 │  ├─ app.py
 │  └─ requirements.txt
