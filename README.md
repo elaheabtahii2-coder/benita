@@ -10,7 +10,7 @@
 ├─ js/
 │  └─ app.j
 ├─ backend/
-│  ├─ app.py
+│  ├─ app.pys
 │  └─ requirements.txt
 ├─ Dockerfile
 └─ .github/
